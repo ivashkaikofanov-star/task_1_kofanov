@@ -1,8 +1,8 @@
 *   3fca789 (HEAD -> main, origin/main) Merge feature-b
 |\  
-| * 253bd2e feature-b: §Æ°†¢®‚Ï ·Æ§•‡¶†≠®• 3-•© ·‚‡Æ™®
-* | df4c54c feature-a: §Æ°†¢®‚Ï ·Æ§•‡¶†≠®• 4-Æ© ·‚‡Æ™®
-* | af1d1b0 feature-a: §Æ°†¢®‚Ï ·Æ§•‡¶†≠®• 3-•© ·‚‡Æ™®
+| * 253bd2e feature-b: –¥–æ–±–∞–≤–∏—Ç—å —Å–æ–¥–µ—Ä–∂–∞–Ω–∏–µ 3-–µ–π —Å—Ç—Ä–æ–∫–∏
+* | df4c54c feature-a: –¥–æ–±–∞–≤–∏—Ç—å —Å–æ–¥–µ—Ä–∂–∞–Ω–∏–µ 4-–æ–π —Å—Ç—Ä–æ–∫–∏
+* | af1d1b0 feature-a: –¥–æ–±–∞–≤–∏—Ç—å —Å–æ–¥–µ—Ä–∂–∞–Ω–∏–µ 3-–µ–π —Å—Ç—Ä–æ–∫–∏
 |/  
 * bcc9499 Update README
 * cc6ff30 Initial commit with README.md
