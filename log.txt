@@ -1,0 +1,8 @@
+*   3fca789 (HEAD -> main, origin/main) Merge feature-b
+|\  
+| * 253bd2e feature-b: добавить содержание 3-ей строки
+* | df4c54c feature-a: добавить содержание 4-ой строки
+* | af1d1b0 feature-a: добавить содержание 3-ей строки
+|/  
+* bcc9499 Update README
+* cc6ff30 Initial commit with README.md
